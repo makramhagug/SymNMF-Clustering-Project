@@ -1,0 +1,1 @@
+Implementation of the Symmetric Non-negative Matrix Factorization algorithm featuring a high-performance C computational core wrapped in a python C-API interface. Includes a silhouette-score comparison against K-means
